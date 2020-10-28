@@ -6,7 +6,8 @@ unsigned hash(const char *s) {
   return hashval;
 }
 
-/* program entry point */
+/* program entry point
+   My name is Dover */
 int main(int argc, char *argv[]) {
   const char * user = getenv("USER");
   printf("\
